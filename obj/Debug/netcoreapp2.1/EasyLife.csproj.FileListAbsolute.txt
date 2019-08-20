@@ -1,0 +1,11 @@
+C:\Users\Gabella\Documents\Adeline\Projects\EasyLife\bin\Debug\netcoreapp2.1\EasyLife.deps.json
+C:\Users\Gabella\Documents\Adeline\Projects\EasyLife\bin\Debug\netcoreapp2.1\EasyLife.runtimeconfig.json
+C:\Users\Gabella\Documents\Adeline\Projects\EasyLife\bin\Debug\netcoreapp2.1\EasyLife.runtimeconfig.dev.json
+C:\Users\Gabella\Documents\Adeline\Projects\EasyLife\bin\Debug\netcoreapp2.1\EasyLife.dll
+C:\Users\Gabella\Documents\Adeline\Projects\EasyLife\obj\Debug\netcoreapp2.1\EasyLife.csprojAssemblyReference.cache
+C:\Users\Gabella\Documents\Adeline\Projects\EasyLife\obj\Debug\netcoreapp2.1\EasyLife.csproj.CoreCompileInputs.cache
+C:\Users\Gabella\Documents\Adeline\Projects\EasyLife\obj\Debug\netcoreapp2.1\EasyLife.AssemblyInfoInputs.cache
+C:\Users\Gabella\Documents\Adeline\Projects\EasyLife\obj\Debug\netcoreapp2.1\EasyLife.AssemblyInfo.cs
+C:\Users\Gabella\Documents\Adeline\Projects\EasyLife\bin\Debug\netcoreapp2.1\EasyLife.pdb
+C:\Users\Gabella\Documents\Adeline\Projects\EasyLife\obj\Debug\netcoreapp2.1\EasyLife.dll
+C:\Users\Gabella\Documents\Adeline\Projects\EasyLife\obj\Debug\netcoreapp2.1\EasyLife.pdb
